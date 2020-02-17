@@ -1,0 +1,10 @@
+{
+  "simulation": "src.test.scala.hello.TestPostRest",
+  "simulationId": "testpostrest",
+  "start": 1581946275410,
+  "description": "",
+  "scenarios": ["AddRestaurenntSimulation"],
+  "assertions": [
+
+  ]
+}

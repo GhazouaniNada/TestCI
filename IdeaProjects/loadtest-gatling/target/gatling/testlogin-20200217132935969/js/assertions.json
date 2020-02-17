@@ -1,0 +1,10 @@
+{
+  "simulation": "src.test.scala.hello.TestLogin",
+  "simulationId": "testlogin",
+  "start": 1581946175969,
+  "description": "",
+  "scenarios": ["JavaMultiuserScenario"],
+  "assertions": [
+
+  ]
+}

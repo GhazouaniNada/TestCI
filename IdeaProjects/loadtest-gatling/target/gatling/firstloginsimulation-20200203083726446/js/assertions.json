@@ -1,0 +1,10 @@
+{
+  "simulation": "src.test.scala.hello.FirstLoginSimulation",
+  "simulationId": "firstloginsimulation",
+  "start": 1580719046446,
+  "description": "",
+  "scenarios": ["LoginSimulation"],
+  "assertions": [
+
+  ]
+}

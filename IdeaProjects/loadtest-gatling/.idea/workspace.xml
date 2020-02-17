@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ce0f6ea-310f-41c5-a128-b6de94ffcf64" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="loadTest" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Worksheet" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1WeSmIgTKQu3eRMfNTX9W0vU3aV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Toshiba\IdeaProjects\loadtest-gatling-master\src\test\scala\hello" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="ScalaTestRunConfiguration" factoryName="ScalaTest" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="loadTest" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="testKind" value="All in package" />
+      <option name="classBuf">
+        <list />
+      </option>
+      <option name="envs">
+        <map />
+      </option>
+      <option name="javaOptions" value="" />
+      <option name="jrePath" />
+      <option name="searchTest" value="Across module dependencies" />
+      <option name="showProgressMessages" value="true" />
+      <option name="testArgs" value="" />
+      <option name="testPackagePath" value="" />
+      <option name="useSbt" value="false" />
+      <option name="useUiWithSbt" value="false" />
+      <option name="workingDirectory" value="C:\Users\Toshiba\IdeaProjects\loadtest-gatling-master" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ce0f6ea-310f-41c5-a128-b6de94ffcf64" name="Default Changelist" comment="" />
+      <created>1579508724241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579508724241</updated>
+      <workItem from="1579508731277" duration="4201000" />
+      <workItem from="1579791408561" duration="3145000" />
+      <workItem from="1579857453715" duration="2318000" />
+      <workItem from="1580138405912" duration="857000" />
+      <workItem from="1580206649521" duration="192000" />
+      <workItem from="1580206887870" duration="504000" />
+      <workItem from="1580207429336" duration="128000" />
+      <workItem from="1580375220072" duration="7329000" />
+      <workItem from="1580396858295" duration="274000" />
+      <workItem from="1580398082226" duration="179000" />
+      <workItem from="1580398330654" duration="496000" />
+      <workItem from="1580398840829" duration="305000" />
+      <workItem from="1580399167313" duration="64000" />
+      <workItem from="1580399262394" duration="74297000" />
+      <workItem from="1581414618699" duration="19756000" />
+      <workItem from="1581674921380" duration="2365000" />
+      <workItem from="1581942448276" duration="5895000" />
+      <workItem from="1581948833081" duration="79000" />
+      <workItem from="1581948926295" duration="570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="188" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580484949423">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="188" y="40" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1580484949423" />
+    <state x="457" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581942934102">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="457" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1581942934102" />
+    <state x="463" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1580484935744">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="169" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1580484935744" />
+    <state x="313" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1580398909931">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="313" y="54" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1366.728@0.0.1366.728" timestamp="1580398909931" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580653018712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1580653018712" />
+    <state x="348" y="64" key="NewModule_or_Project.wizard" timestamp="1580207314387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="348" y="64" key="NewModule_or_Project.wizard/0.0.1366.728@0.0.1366.728" timestamp="1580207314387" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1580988733442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1580988733442" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1580659739319">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1580659739319" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580398366808">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1580398366808" />
+    <state x="65" y="60" key="new project wizard" timestamp="1580398743859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="60" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1580398743859" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1580742695206">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1580742695206" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="scala-line">
+          <url>file://$PROJECT_DIR$/src/test/scala/hello/LoadTest.scala</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

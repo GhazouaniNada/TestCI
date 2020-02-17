@@ -1,0 +1,4 @@
+RUN	src.test.scala.hello.LoadTest	loadtest	1580468529086	 	3.2.1
+ERROR	loginnnnn: Failed to build request: url http://localhost:4222"http://" + uri2 + ":2005/login" can't be parsed into an Uri: j.l.NumberFormatException: For input string: "4222"http:" 	1580468531106
+USER	SimpleLogin	1	END	1580468531095	1580468531154
+USER	SimpleLogin	1	START	1580468531095	1580468531095
